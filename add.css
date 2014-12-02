@@ -1,0 +1,22 @@
+body{
+    font-family:"Arial";
+    font-size:14px;
+}
+#div_2{
+    border: 4px solid red;
+    border-radius: 20%;
+    margin:auto;
+    width:400px;
+    height:300px;
+}
+form{
+    position:relative;
+    margin-left: 100px;
+    margin-top:10px;
+}
+#div_1{
+    margin:auto;
+    font-weight:bold;
+    width:200px;
+    height:20px;
+}

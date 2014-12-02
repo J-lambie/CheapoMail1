@@ -1,0 +1,35 @@
+body{
+    font-family:"Arial";
+    font-size:14px;
+    background-color: black;
+}
+div{
+    background-color: white;
+}
+#header{
+    border: 2px solid black;
+    height:5%;
+}
+#folders{
+    border: 2px solid black;
+    width:10%;
+    height:100%;
+    float:left;
+    text-align: center;
+   
+}
+#listmail{
+    border: 2px solid black;
+    width:20%;
+    height:100%;
+    display: inline-block;
+    
+}
+#view{
+    border: 2px solid black;
+    width:68%;
+    height:100%;
+    float:right;
+    overflow:scroll;
+    
+}
